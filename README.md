@@ -28,5 +28,5 @@ STOP BOUNCING !!
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `key` | `string` | **Required**. Your API key |
+| `key` | `string` | **Required**. Your API key , you can get by subscribing to Minelead.io |
 | `email` | `string` | **Required**. the email you would like to validate |
