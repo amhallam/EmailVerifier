@@ -1,4 +1,4 @@
-# Email Verifier
+# Email Verifier ( Validate Emails API )
 The best real time email verifier with API 
 
 
