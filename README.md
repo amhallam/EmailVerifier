@@ -1,5 +1,5 @@
 # Email Verifier ( Validate Emails API )
-The best real time email verifier with API 
+The best and most popular real time email verifier with API 
 
 
 The best email finder and verifier with real time API provided by https://minelead.io/search/
